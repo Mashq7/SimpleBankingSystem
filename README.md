@@ -1,5 +1,4 @@
 # SimpleBankingSystem
-Sample Banking System Project
 This project is a sample banking system built using Python. 
 It was created as part of a Python training course to help learners understand key programming concepts such as list, loop and dictionary.
 
